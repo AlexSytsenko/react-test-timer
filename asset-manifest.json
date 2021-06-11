@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-test-timer/static/css/main.710b7c8d.chunk.css",
+    "main.js": "/react-test-timer/static/js/main.8aa9d1e2.chunk.js",
+    "main.js.map": "/react-test-timer/static/js/main.8aa9d1e2.chunk.js.map",
+    "runtime-main.js": "/react-test-timer/static/js/runtime-main.b9ca2651.js",
+    "runtime-main.js.map": "/react-test-timer/static/js/runtime-main.b9ca2651.js.map",
+    "static/js/2.60eb9ab8.chunk.js": "/react-test-timer/static/js/2.60eb9ab8.chunk.js",
+    "static/js/2.60eb9ab8.chunk.js.map": "/react-test-timer/static/js/2.60eb9ab8.chunk.js.map",
+    "index.html": "/react-test-timer/index.html",
+    "static/css/main.710b7c8d.chunk.css.map": "/react-test-timer/static/css/main.710b7c8d.chunk.css.map",
+    "static/js/2.60eb9ab8.chunk.js.LICENSE.txt": "/react-test-timer/static/js/2.60eb9ab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ca2651.js",
+    "static/js/2.60eb9ab8.chunk.js",
+    "static/css/main.710b7c8d.chunk.css",
+    "static/js/main.8aa9d1e2.chunk.js"
+  ]
+}
